@@ -1,5 +1,5 @@
 
-# Title: Integrating Complexity Theory in Engineering Systems and Free Market Dynamics
+# Complex Systems Analysis Report
 
 ##Course Name: SYS520-Complexity Theory
 ##Instructor: Bobby Estey 
