@@ -1,9 +1,9 @@
 
 # Complex Systems Analysis Report
 
-##Course Name: SYS520-Complexity Theory
-##Instructor: Bobby Estey 
-##Date: 06/17/2026
+### Course Name: SYS520-Complexity Theory
+### Instructor: Bobby Estey 
+### Date: 06/17/2026
 
 ### Abstract
 
