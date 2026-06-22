@@ -107,11 +107,6 @@ flowchart TD;
     C[Optimization Techniques] -->|Minimize Costs| D[Enhanced Resource Allocation];
     D -->|Support Decision-Making| A;
 ```
-
-### Conclusion
-
-The smart grid exemplifies a complex adaptive system, where the interaction among various components leads to emergent behaviors that enhance efficiency and resilience. By employing operations research methods and conducting thorough risk assessments, stakeholders can make informed decisions that promote sustainability and reliability in energy distribution. Understanding the intricacies of such systems prepares professionals to navigate challenges and leverage opportunities for growth in their careers.
-
 ---
 
 ### Evaluation of Adaptation and Self-Organization
@@ -179,4 +174,7 @@ flowchart TD;
     A[Risk Assessment Framework] -->|Identify Risks| B[Inform Strategic Planning];
     C[Utilize Risk Evaluations] -->|Prioritize Investments| D[Align with Sustainability Goals];
 ```
+---
+### Conclusion
 
+The smart grid exemplifies a complex adaptive system, where the interaction among various components leads to emergent behaviors that enhance efficiency and resilience. By employing operations research methods and conducting thorough risk assessments, stakeholders can make informed decisions that promote sustainability and reliability in energy distribution. Understanding the intricacies of such systems prepares professionals to navigate challenges and leverage opportunities for growth in their careers.
