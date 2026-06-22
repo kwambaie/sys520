@@ -1,6 +1,6 @@
 ### Course Name: SYS520-Complexity Theory
 ### Instructor: Bobby Estey 
-### Date: 06/17/2026
+### Date: 06/24/2026
 ### Case Study: Smart Grid as a Complex Adaptive System (CAS)
 
 #### Introduction
