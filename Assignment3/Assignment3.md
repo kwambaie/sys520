@@ -1,4 +1,6 @@
-
+### Course Name: SYS520-Complexity Theory
+### Instructor: Bobby Estey 
+### Date: 07/08/2026
 
 # Network Analysis Project: Power Utility Network
 
