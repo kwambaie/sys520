@@ -201,7 +201,7 @@ This detailed analysis of a power utility network emphasizes the importance of u
 
 ### References
 
-
+Micouin, P. (2014). Model Based Systems Engineering: Fundamentals and Methods. ISTE Ltd : John Wiley & Sons, Inc. 
 
 ---
 
