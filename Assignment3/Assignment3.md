@@ -203,5 +203,8 @@ This detailed analysis of a power utility network emphasizes the importance of u
 
 Micouin, P. (2014). Model Based Systems Engineering: Fundamentals and Methods. ISTE Ltd : John Wiley & Sons, Inc. 
 
+Electric Power Sector Basics | US EPA. (n.d.-b). https://www.epa.gov/power-sector/electric-power-sector-basics 
+
+Why distribution substation is an essential component of Electrical Power Systems? (n.d.-c). https://www.energycentral.com/energy-management/post/why-distribution-substation-essential-component-electrical-power-systems-WhZjOEKXhlJgykv 
 ---
 
