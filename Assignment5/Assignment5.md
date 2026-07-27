@@ -3,9 +3,13 @@
 # Exploring Complex Adaptive Systems in Industrial Contexts
 
 Author: Emmanuel Kwambai  
+
 Institution: Grand Canyon University  
+
 Course: SYS 520 Complexity Theory 
+
 Instructor: Bobby Estey
+
 Date: 08/03/2026 
 
 ---
